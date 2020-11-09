@@ -2,4 +2,12 @@
   font-style: italic;
   font-family: 'Roboto' monospace;
   color: #f1f1f;
+  background: rgb(0, 100,0);
+}
+h3.iman {
+  color: grey;
+  background: rgb(0, 0, 100);
+  text-align: center;
+  text-decoration: underline;
+  font-size: 28px;
 }
